@@ -1,0 +1,14 @@
+C:\Users\Thuy\AppData\Local\Temporary Projects\Connect4Gui\bin\Debug\Connect4Gui.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\bin\Debug\Connect4Gui.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\bin\Debug\Connect4Gui.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\bin\Debug\Connect4Gui.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\MainWindow.baml
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\MainWindow.g.cs
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\App.g.cs
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui_MarkupCompile.cache
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.g.resources
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.Properties.Resources.resources
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.csproj.GenerateResource.Cache
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4Gui\Connect4Gui\obj\Debug\Connect4Gui.csprojResolveAssemblyReference.cache
